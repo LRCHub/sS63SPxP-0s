@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "イージー?ハード?しかして進めっ!",
+  "base_artist": "DIALOGUE+",
+  "createdAt": "2026-03-22T07:48:08.454506Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イージー?ハード?しかして進めっ!",
+      "artist": "DIALOGUE+",
+      "has_synced": false,
+      "path": "select/pl_01_イージー_ハード_しかして進めっ!_DIALOGUE+.txt"
+    }
+  ]
+}
